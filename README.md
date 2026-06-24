@@ -1,6 +1,7 @@
 This project presents an interactive Stock Performance Analytics Dashboard built in Microsoft Excel using historical stock market data of major Tata Group companies. The dashboard enables investors and analysts to evaluate stock performance through key metrics such as price trends, trading volume, volatility, and drawdown risk. By combining interactive visualizations, KPIs, and filtering capabilities, the dashboard provides actionable insights into investment performance, market participation, and risk exposure across multiple Tata Group stocks.
 
-Dataset
+Dataset:
+
 The dataset contains historical stock market data for major Tata Group companies from 2006 to 2025
 TCS,Tata Motors,Tata Power,Tata Consumers,Titan,Trent,Voltas,Tata Communications,Tata Technologies,Tejas Networks,Indian Hotels,Tata Chemicals
 
