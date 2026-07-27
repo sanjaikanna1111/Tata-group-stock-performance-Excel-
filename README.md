@@ -2,20 +2,12 @@
 
 An interactive Stock Performance Analytics Dashboard built in Microsoft Excel using historical stock market data of major Tata Group companies. The dashboard enables investors and analysts to evaluate stock performance through key metrics such as price trends, trading volume, volatility, and drawdown risk. By combining interactive visualizations, KPIs, and filtering capabilities, it provides actionable insights into investment performance, market participation, and risk exposure across multiple Tata Group stocks.
 
-<!-- Add a screenshot or GIF of the dashboard here — this is the most important thing for anyone browsing the repo -->
-<!-- ![Dashboard overview](images/dashboard_overview.png) -->
-
----
-
 ## Dataset
 
 Historical stock market data for major Tata Group companies from 2006 to 2025:
 
 TCS, Tata Motors, Tata Power, Tata Consumer Products, Titan, Trent, Voltas, Tata Communications, Tata Technologies, Tejas Networks, Tata India Hotels, Tata Chemicals
 
-**Source:** *(add where the price data came from — e.g. NSE, Yahoo Finance)*
-
----
 
 ## Business Questions & Findings
 
@@ -51,8 +43,6 @@ Tata Group stocks show clear structural evolution over time. Early years show gr
 1. Open `tata_stock_dashboard.xlsx` in Excel.
 2. Use the slicers/filters on the dashboard sheet to select a stock or date range.
 3. KPI cards update automatically to show price trend, volume, volatility, and drawdown for the selected stock(s).
-
-*(Adjust the above to match your actual file/sheet names and filter setup.)*
 
 ---
 
