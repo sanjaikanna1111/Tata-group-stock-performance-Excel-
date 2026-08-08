@@ -59,3 +59,11 @@ Tata Group stocks show clear structural evolution over time. Early years show gr
 - Data Cleaning & Transformation
 - Business Intelligence Reporting
 - Advanced Excel Visualization
+
+  
+---
+
+## Author
+
+**Sanjai Kanna CM**  
+Business & Data Analytics Portfolio Project
